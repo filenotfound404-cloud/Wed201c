@@ -1,0 +1,44 @@
+p {
+    font-family: Arial;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .line-1 {
+    font-weight: bold;
+    font-size: 12px;
+    color: orange;
+  }
+
+  .line-2 {
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  .line-3 {
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-bottom: 14px;
+  }
+
+  .line-4 {
+    margin-bottom: 8px;
+  }
+
+  button {
+    font-weight: bold;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(55, 55, 208);
+    border: none;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 10px;
+    display: block;
+    margin: 0 auto;
+  }

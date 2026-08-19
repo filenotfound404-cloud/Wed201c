@@ -1,0 +1,31 @@
+.line-1 {
+    font-family: Arial;
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+
+  .USD {
+    font-size: 15px;
+    color: gray;
+  }
+
+  .line-2 {
+    font-family: Arial;
+    color: green;
+    margin-top: 5px;
+  }
+
+  .today {
+    margin-left: 4px;
+  }
+
+  .line-3 {
+    margin-top: 5px;
+    font-family: Arial;
+    color: gray;
+  }
+
+  .number {
+    color: red;
+    margin-left: 4px;
+  }
